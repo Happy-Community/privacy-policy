@@ -5,7 +5,7 @@ Effective Date: 1st March 2026
 App: DuiDui Fit – Mind & Body 365
 Developer: Yangocean
 
-1. Information We Collect
+1. Information We Collect and Store in your device
 
 DuiDui Fit is designed to track your mind and body wellness daily. We collect the following types of data:
 
@@ -35,14 +35,13 @@ We do not sell or share your local health or fitness data with any third parties
 
 Your local data (BMI, mood, activity logs) is stored on your device.
 
-Uninstalling the app will automatically delete all local data.
+Uninstalling the app will automatically delete all local data Or choose clear all data in the app.
 
 We do not provide server-stored data, so no additional deletion requests are required.
 
 4. Third-Party Services
 
-DuiDui Fit uses Google AdMob to display ads. For details on AdMob’s data collection practices, see Google Privacy Policy
-.
+DuiDui Fit uses Google AdMob to display ads. For details on AdMob’s data collection practices, see Google Privacy Policy.
 
 5. Security
 
